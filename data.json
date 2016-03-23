@@ -1,7 +1,7 @@
 {
     "favs" :
     [
-        {"name" : "Gaming", 
+       {"name" : "Gaming", 
         "image" : "images\\pcmr.png", 
         "description" : "I started out playing DOS games on an old Windows 95 computer. Comander Keen, Duke Nukem, and DOOM were what I grew up on. Now I primarily game on PC.", 
         "title" : "Favorite Games", 
