@@ -1,0 +1,122 @@
+/*Loading custom font*/
+@font-face {
+    font-family: roboto;
+    src: url(font/RobotoCondensed-Light.ttf);
+}
+
+@font-face {
+    font-family: robotoReg;
+    src: url(font/RobotoCondensed-Regular.ttf);
+}
+
+body {
+    
+    background-color: #EFEFEF;
+}
+
+h1 {
+    font-family: roboto;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    background: #607D8B;
+    border-radius: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2{
+    font-family: robotoReg;
+    font-weight: normal;
+    color: #757575;
+    text-align: center;
+    padding-top: 50px;
+}
+
+ul {
+    color: #757575;
+    font-family: roboto;
+    font-weight: normal;
+    border-radius: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 100px;
+    list-style-type: none;
+}
+
+.frst:hover {
+    cursor: pointer;
+    background: #546E7A;
+    margin-right: 5%;
+}
+
+.frst{
+    cursor: pointer;
+    color: white;
+    font-family: inherit;
+    font-weight: normal;
+    background: #607D8B;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    padding-bottom: 4%;
+    padding-left: 2%;
+    transition-duration: 0.5s;
+}
+
+.sublst {
+    font-family: robotoReg;
+    font-weight: bold;
+    border-style: solid;
+    border-color: #EFEFEF;
+    background: #EFEFEF;
+    color: #757575;
+    padding-top: 10px;
+    margin-top: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+
+li.sub:hover {
+    display: inline;
+    padding-right: 2%;
+    padding-bottom: 0px;
+    cursor: pointer;
+    color: white;
+    font-family: inherit;
+    font-weight: normal;
+    background: #607D8B;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    padding-left: 2%;
+}
+
+.sub{
+    margin-left: 2%;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    overflow: auto;
+}
+
+img {
+    float: right;
+}
+
+.hide{
+    display: none;
+    position: relative;
+}
+
+.main {
+    text-align: left;
+    color: white;
+}

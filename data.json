@@ -1,0 +1,22 @@
+{
+    "favs" :
+    [
+        {"name" : "Gaming", 
+        "image" : "images\\pcmr.png", 
+        "description" : "I started out playing DOS games on an old Windows 95 computer. Comander Keen, Duke Nukem, and DOOM were what I grew up on. Now I primarily game on PC.", 
+        "title" : "Favorite Games", 
+        "list" : [{"li" : "Fallout 4"}, {"li" : "Hotline Miami"}, {"li" : "Rocket League"}, {"li" : "Firewatch"}]},
+        
+        {"name" : "Reddit", 
+         "image" : "images\\reddit.png", 
+         "description" : "One of the best websites out there, full of useless information you didn't know you couldn't live without!", 
+         "title" : "Favorite Subreddits", 
+         "list" : [{"li" : "r/pcmasterrace"}, {"li" : "r/askreddit"}, {"li" : "r/photoshopbattles"}]},
+        
+        {"name" : "Retro Consoles", 
+         "image" : "images\\nes.png", 
+         "description" : "Occasionally when I come across broken retro gaming platforms for a good deal I'll buy them and fix them up. I enjoy the nostalgic feel of playing games on the actual console.", 
+         "title" : "Nintendo Junk I Currently Own", 
+         "list" : [{"li" : "1 NES"}, {"li" : "1 Famicom"}, {"li" : "6 Original Gameboys"}, {"li" : "1 GB Color"}, {"li" : "1 GB Advance"}]}
+    ]
+}

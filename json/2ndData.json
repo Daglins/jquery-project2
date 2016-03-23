@@ -1,0 +1,10 @@
+{
+    "favs" :
+    [
+        {"name" : "2nd Source Data", 
+        "image" : "images\\json.png", 
+        "description" : "Example description", 
+        "title" : "Test list",
+        "list" : [{"li" : "List item 1"}, {"li" : "List item 2"}, {"li" : "List item 3"}]}
+    ]
+}
